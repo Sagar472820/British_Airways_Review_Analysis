@@ -40,6 +40,9 @@ The goal of the British Airways Reviews Tableau Dashboard is to provide a compre
 
 ## Dashboard Review
 
+![British_Airways_Dash](https://github.com/user-attachments/assets/bc6daffa-e0e0-4003-ab42-de4ccca509ff)
+
+
 ## Conclusion
 
 - Address recurring themes in negative feedback (e.g., food quality and baggage handling).
