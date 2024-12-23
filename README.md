@@ -38,6 +38,8 @@ The goal of the British Airways Reviews Tableau Dashboard is to provide a compre
 
 ## Dashboard Interaction
 
+<a href="https://public.tableau.com/app/profile/sagar.gaikwad1910/viz/British_Airways_Reviews_17265223800410/Dashboard1?publish=yes"> Tableau Dashboard </a>
+
 ## Dashboard Review
 
 ![British_Airways_Dash](https://github.com/user-attachments/assets/bc6daffa-e0e0-4003-ab42-de4ccca509ff)
